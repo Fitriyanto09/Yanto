@@ -1,0 +1,2 @@
+# Yanto
+just another repository
